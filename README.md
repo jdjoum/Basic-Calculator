@@ -1,6 +1,6 @@
 # Basic-Calculator
 This code allows users to perform:
-* Addition (+) , *, /, %, ^, exp, log, abs
+* Addition (+)
 * Subtraction (-)
 * Division (/)
 * Multiplication (*)
@@ -11,3 +11,4 @@ This code allows users to perform:
 * Exponential Value (exp)
 
 operations on a number or numbers if applicable.
+The user can exit the calculator by typing in "x" for any input.
